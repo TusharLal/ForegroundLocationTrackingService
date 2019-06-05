@@ -1,0 +1,42 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ü÷¯©8îéëå¸,
+rsquid:HiddenFieldCheck"KRename "NOTIFICATION_CHANNEL_ID" which hides the field declared at line 76.(µ”¼ž8îéëå¸,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8îéëå¸,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Â’ö£8îéëå¸,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†‰ˆå8îéëå¸,
+gsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(¾Œµûþÿÿÿÿ8îéëå¸,
+bsquid:UselessImportCheck"4Remove this unused import 'android.app.AlertDialog'.(ª½øþüÿÿÿÿ8îéëå¸,
+squid:S00116"bRename this field "NOTIFICATION_CHANNEL_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ”¼ž8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïÁ©àùÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Áß»½ÿÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ù×©îüÿÿÿÿ8îéëå¸,
+Psquid:S1066"/Merge this if statement with the enclosing one.(êÿ×¤ùÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ççï’ùÿÿÿÿ8îéëå¸,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ”¼ž8îéëå¸,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á“j8îéëå¸,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8îéëå¸,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á“j8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÜšÏýÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ê¯êºÿÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ðá–±üÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰€±§üÿÿÿÿ8îéëå¸,
+_squid:UselessImportCheck"6Remove this unused import 'android.provider.Settings'.(Š¯„8îéëå¸,
+jsquid:UselessImportCheck"<Remove this unused import 'android.content.DialogInterface'.(Š­›¨þÿÿÿÿ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ð¤áæúÿÿÿÿ8îéëå¸,
+asquid:CallToDeprecatedMethod"4Remove this use of "PRIORITY_MAX"; it is deprecated.(” °Í8îéëå¸,
+Dsquid:S1185"(Remove this method to simply inherit it.(Î¢ŽÈ8îéëå¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ“‡íûÿÿÿÿ8îéëå¸,
+\squid:CallToDeprecatedMethod"/Remove this use of "vibrate"; it is deprecated.(ˆÏòí8îéëå¸,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8îéëå¸,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(øˆ÷Ãùÿÿÿÿ8îéëå¸,
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8îéëå¸,
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¬•çŠ8îéëå¸,
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(‘¯Ú™8îéëå¸,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙßÎÅ8îéëå¸,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¬“âùÿÿÿÿ8îéëå¸,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ôó×R8îéëå¸,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÙÎ¿‡8îéëå¸,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±ìÑùÿÿÿÿ8îéëå¸,
+gsquid:UselessImportCheck"9Remove this unused import 'android.app.TaskStackBuilder'.(—­ŠËüÿÿÿÿ8îéëå¸,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8îéëå¸,

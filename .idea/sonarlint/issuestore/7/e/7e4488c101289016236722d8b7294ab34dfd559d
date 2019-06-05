@@ -1,0 +1,6 @@
+
+tsquid:S1450"SRemove the "mMap" field and declare it as a local variable in the relevant methods.(—­ƒÌÿÿÿÿÿ8…éÃç¸,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù”‰üûÿÿÿÿ8…éÃç¸,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ïµŒùÿÿÿÿ8…éÃç¸,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ïµŒùÿÿÿÿ8…éÃç¸,
+jsquid:MaximumInheritanceDepth"<This class has 9 parents which is greater than 5 authorized.(©˜Ãæ8…éÃç¸,

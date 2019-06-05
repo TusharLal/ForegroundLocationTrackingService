@@ -1,0 +1,5 @@
+
+nsquid:UselessImportCheck"ERemove this unused import 'android.support.v4.content.ContextCompat'.(¹†Ç8½øæ¸,
+ksquid:MaximumInheritanceDepth"=This class has 10 parents which is greater than 5 authorized.(ÄÇ‚·8½øæ¸,
+vsquid:S00116"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓÀ‚×8½øæ¸,
+xsquid:S00116"VRename this field "PERMISSIONS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¬Äşÿÿÿÿ8½øæ¸,

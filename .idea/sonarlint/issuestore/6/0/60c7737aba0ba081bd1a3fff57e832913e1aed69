@@ -1,0 +1,15 @@
+
+nsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ùäê
+ssquid:S1488"^Immediately return this expression instead of assigning it to the temporary variable "_query".(ê¤Ãô
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª”°†ûÿÿÿÿ
+esquid:S00116"ORename this field "__db" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÛôÇ
+†squid:S00116"kRename this field "__insertionAdapterOfLocationInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Ò”Ÿÿÿÿÿÿ
+squid:S00116"dRename this field "__preparedStmtOfDeleteAll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥âıÒùÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òâ¼âøÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕØ‘¯
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ×—³ùÿÿÿÿ
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äŠ•
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ùäê
+fsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú„Ëq
+ssquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ú®Ú±
+xsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
